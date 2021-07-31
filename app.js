@@ -1,5 +1,5 @@
 
-let username = "Salah Eddine";
+let username = "SEC";
 let age = 24;
 
 /* let oldWay = "Hello From the other side " + username + "\n" +
@@ -18,7 +18,7 @@ let htmlTemplate = `
     <span class="age">${age}</span>
 </div>
 `;
-console.log(htmlTemplate);
+//console.log(htmlTemplate);
 document.querySelector(".title").innerHTML = htmlTemplate
 
 
