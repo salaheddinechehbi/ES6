@@ -35,5 +35,5 @@ function Person(){
         console.log(that.age);
     }, 1000);
 }
-let person = new Person();
+//let person = new Person();
 
