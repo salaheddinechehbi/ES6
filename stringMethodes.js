@@ -11,10 +11,10 @@ console.log(x.endsWith("School"));
 console.log(x.endsWith("School" , 10)); */
 
 
-console.log(x.includes("Web"));
+/* console.log(x.includes("Web"));
 
 console.log(x.indexOf("Web"));
 
-console.log(x.repeat(4))
+console.log(x.repeat(4)) */
 
 
