@@ -9,9 +9,9 @@ function sum(a,b,...numbers){
     return num;
 }
 
-console.log(sum(4,5));
+/* console.log(sum(4,5));
 console.log(sum(4,5,4));
-console.log(sum(4,5,4,6,10,15));
+console.log(sum(4,5,4,6,10,15)); */
 
 
 
