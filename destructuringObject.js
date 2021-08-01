@@ -42,9 +42,9 @@ console.log(`Hello My Name Is : ${name},
 /*  const { html, css, js} = user.langs;
  console.log(`I Know ${html} of HTML And ${css} Of CSS And ${js} Of JS`); */
 
- const { name, age, city, theme, langs:{html, css, js: [one, two, three]}, sprache} = person;
+/*  const { name, age, city, theme, langs:{html, css, js: [one, two, three]}, sprache} = person;
 console.log(`Hello My Name Is : ${name},
 My Age Is : ${age} I Live In ${city}, 
 I Know ${html} of HTML And ${css} Of CSS And ${one} And ${two}
-I Speack ${sprache[1]} `)
+I Speack ${sprache[1]} `) */
 
